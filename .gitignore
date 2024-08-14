@@ -1,0 +1,6 @@
+.DS_Store
+
+youtube_download/
+
+tests/
+*.mp4
